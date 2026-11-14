@@ -45,7 +45,6 @@ Proyecto-final-Grupo-C__1/
 │   ├── Plan de Análisis..docx                       # Protocolo de muestreo, variables y estrategia estadística
 │   └── Reporte trabajo de Campo..docx               # Informe de ejecución, cumplimiento del protocolo y hallazgos
 └── README.md                                        # Documentación principal del proyecto
-```text
-
-##"Solos llegamos más rápido, pero juntos llegamos más lejos."
+```
+## "Solos llegamos más rápido, pero juntos llegamos más lejos."
 — Proverbio africano.
