@@ -24,7 +24,7 @@ trabajo conjunto y colaborativo de todo el equipo.
 ¿En qué se diferencian las cafeterías de especialidad del área del Park Way
 (Bogotá), en su clientela, sus horas de mayor afluencia y el tiempo que se
 quedan los clientes, según estén cerca de universidades, clínicas y hospitales,
-zonas de oficinas, estaciones de TransMilenio u otras cafeterías?[cite: 2]
+zonas de oficinas, estaciones de TransMilenio u otras cafeterías?
 
 ## Estructura del repositorio
 
