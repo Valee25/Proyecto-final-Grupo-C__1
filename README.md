@@ -1,4 +1,4 @@
-# Proyecto Final: Geografía y localización de las cafeterías de especialidad en el área del Park Way (Bogotá)
+# Geografía y localización de las cafeterías de especialidad en el área del Park Way (Bogotá)
 
 Repositorio del equipo de investigación para el curso *Haciendo Economía*
 (2026-2)[cite: 6]. El proyecto caracteriza el mercado de cafeterías de especialidad
