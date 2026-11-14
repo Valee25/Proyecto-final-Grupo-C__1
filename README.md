@@ -1,11 +1,11 @@
 # Geografía y localización de las cafeterías de especialidad en el área del Park Way (Bogotá)
 
 Repositorio del equipo de investigación para el curso *Haciendo Economía*
-(2026-2)[cite: 6]. El proyecto caracteriza el mercado de cafeterías de especialidad
+(2026-2). El proyecto caracteriza el mercado de cafeterías de especialidad
 independientes en el sector del Park Way y Teusaquillo (Bogotá), analizando cómo
 la cercanía a universidades, clínicas y hospitales, zonas de oficinas,
 estaciones de TransMilenio y otros cafés se asocia con su clientela, horas de
-mayor afluencia y tiempo de permanencia[cite: 2, 6].
+mayor afluencia y tiempo de permanencia.
 
 ## Equipo de investigación
 
@@ -13,8 +13,8 @@ mayor afluencia y tiempo de permanencia[cite: 2, 6].
 | :--- |
 | *Samuel Dussán Fonseca* |
 | *Chari Valeria Reyes Arias* |
-| *Valery Lizarazo* |
-| *Sara Rodríguez* |
+| *Valery Juliana Lizarazo Wilches* |
+| *Sara Gabriela Rodríguez* |
 
 > Todos los productos y entregables de esta investigación son resultado del
 trabajo conjunto y colaborativo de todo el equipo.
