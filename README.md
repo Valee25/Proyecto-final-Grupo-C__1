@@ -46,7 +46,7 @@ Proyecto-final-Grupo-C__1/
 │       ├── Graficas (2).pdf                               # Compilado visual de mapas y figuras del estudio
 │       └── graficas.zip                                   # Código reproducible y archivos fuente de figuras[cite: 6, 21, 27]
 └── README.md                                              # Documentación principal del proyecto
----
+```
 
 > **"Solos llegamos más rápido, pero juntos llegamos más lejos."**[cite: 19]
 >
