@@ -30,21 +30,21 @@ horas de mayor afluencia y el tiempo que se quedan los clientes?
 Proyecto-final-Grupo-C__1/
 ├── Alternativa2/
 │   ├── Documentos finales./
-│   │   ├── GuionVideoParkWay_.docx                        # Guión estructurado para la presentación en video[cite: 6, 24]
-│   │   ├── Informe_corregido_ParkWay (2).docx             # Informe final completo y marco teórico[cite: 20, 24]
+│   │   ├── GuionVideoParkWay_.docx                        # Guión estructurado para la presentación en video
+│   │   ├── Informe_corregido_ParkWay (2).docx             # Informe final completo y marco teórico
 │   │   ├── MapaCafes_Final (2).xlsx                       # Base georreferenciada de locales y distancias
-│   │   ├── Plan_de_analisis_corregido_ParkWay (2).docx    # Protocolo de muestreo y estrategia estadística[cite: 6, 24]
-│   │   ├── Reporte trabajo de Campo. (1).docx             # Informe de ejecución, protocolo y hallazgos[cite: 6, 24]
+│   │   ├── Plan_de_analisis_corregido_ParkWay (2).docx    # Protocolo de muestreo y estrategia estadística
+│   │   ├── Reporte trabajo de Campo. (1).docx             # Informe de ejecución, protocolo y hallazgos
 │   │   └── Resultados_ParkWay_ (1) (1).docx               # Síntesis de resultados y tablas comparativas
 │   ├── Entregable encuestas/
-│   │   ├── Encuesta haciendo economía - Formularios de Google (1).pdf  # Instrumento aplicado[cite: 6, 25]
-│   │   ├── Link.md                                        # Enlace directo al formulario digital[cite: 25]
+│   │   ├── Encuesta haciendo economía - Formularios de Google (1).pdf  # Instrumento aplicado
+│   │   ├── Link.md                                        # Enlace directo al formulario digita
 │   │   └── Respuestas encuesta final. (1).xlsx            # Base de datos congelada de campo
 │   ├── Material Video/
-│   │   └── Link.md                                        # Enlace a Drive con evidencia audiovisual[cite: 6, 26]
+│   │   └── Link.md                                        # Enlace a Drive con evidencia audiovisual
 │   └── Visualización/
 │       ├── Graficas (2).pdf                               # Compilado visual de mapas y figuras del estudio
-│       └── graficas.zip                                   # Código reproducible y archivos fuente de figuras[cite: 6, 21, 27]
+│       └── graficas.zip                                   # Código reproducible y archivos fuente de figuras
 └── README.md                                              # Documentación principal del proyecto
 ```
 
