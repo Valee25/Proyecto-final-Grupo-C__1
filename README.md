@@ -50,4 +50,4 @@ Proyecto-final-Grupo-C__1/
 
 > **"Solos llegamos más rápido, pero juntos llegamos más lejos."**[cite: 19]
 >
-> — *Proverbio africano.*[cite: 19]
+> — *Proverbio africano.*
